@@ -24,6 +24,8 @@ Ri, Ti)
 foreground.
 
 ## Data:
-On the repository you will find video sequences of 4 objects on a rotating turntable.
+On the repository go to Data directory where you will find video sequences of the object on a rotating turntable 
+and a file.ply with the result of the space carving that can be opened by the freely
+available Meshlab visualizer (https://www.meshlab.net/).
 
 
