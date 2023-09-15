@@ -1,6 +1,6 @@
 # SpaceCarving
-# Project request:
-Goal is to implement technique known as “space carving” [1] to reconstruct the shape of
+## Project request:
+Goal is to implement technique known as “space carving” to reconstruct the shape of
 a 3D object from multiple photographs taken at known but arbitrarily distributed viewpoints.
 An object is placed on top of a rotating plate together with a custom-designed fiducal marker
 (see the following sections for details). The background is made of a uniform-colored
@@ -22,5 +22,8 @@ frame i:
 Ri, Ti)
 2. Find the “silhouette” of the object by clustering the pixels as part of the background or
 foreground.
+
+## Data:
+On the repository you will find video sequences of 4 objects on a rotating turntable.
 
 
