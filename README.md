@@ -28,4 +28,8 @@ On the repository go to Data directory where you will find video sequences of th
 and a file.ply with the result of the space carving that can be opened by the freely
 available Meshlab visualizer (https://www.meshlab.net/).
 
+## Code:
+The code it was split in varius Jupiyter notebook each of them solve a step of the project.
+
+
 
